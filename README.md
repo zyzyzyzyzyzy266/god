@@ -1,0 +1,2 @@
+# god
+the first practice
